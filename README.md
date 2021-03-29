@@ -1,1 +1,1 @@
-# SameRightsSameOpportunities
+# Same Rights Same Opportunities
