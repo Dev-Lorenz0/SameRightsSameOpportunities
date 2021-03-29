@@ -13,6 +13,6 @@ window.addEventListener("scroll", () => {
 const h1 = document.getElementById("h1title");
 
 setTimeout(function(){
-  h1.innerHTML = "Même droits, Même opportunitées";
+  h1.innerHTML = "Même droits, Même résultats";
   h1.style.opacity = "1"; 
 }, 6100);
