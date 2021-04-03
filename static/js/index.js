@@ -11,5 +11,5 @@ window.addEventListener("scroll", () => {
 });
 
 setTimeout(function(){
-  document.getElementById("myImg").src = "Same (4).png";
+  document.getElementById("myImg").src = "en2.png";
 }, 6100);
