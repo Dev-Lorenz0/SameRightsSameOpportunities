@@ -386,7 +386,7 @@ a:hover {
 .front {
   width: 50%;
   height: 50%;
-  margin-top: 4em;
+  margin-top: 6em;
 }
 
 .img1 {
@@ -411,8 +411,4 @@ a:hover {
     text-align: center;
   animation: fadeEffect 5s; /* fading effect takes 3s */
   z-index: 20;
-}
-
-img {
- margin-top: 15em;
 }
