@@ -10,9 +10,6 @@ window.addEventListener("scroll", () => {
   document.querySelector(".front").style.opacity = opacity;
 });
 
-const h1 = document.getElementById("h1title");
-
 setTimeout(function(){
-  h1.innerHTML = "Same rights, Same Achievements";
-  h1.style.opacity = "1"; 
+  document.getElementById("myImg").src = "Same (4).png";
 }, 6100);
