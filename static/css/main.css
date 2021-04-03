@@ -412,3 +412,6 @@ a:hover {
   animation: fadeEffect 5s; /* fading effect takes 3s */
   z-index: 20;
 }
+
+img {
+ margin-top: 8em;
