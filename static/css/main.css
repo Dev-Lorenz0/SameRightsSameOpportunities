@@ -44,7 +44,7 @@ nav {
     transition: .5s;
 }
 
-.a:hover {
+a:hover {
     border-left: 1px solid rgb(137, 107, 107);
 }
 
@@ -60,7 +60,7 @@ svg {
     transition: stroke-dashoffset .9s ease-out, fill 1s; 
 }
 
-.a:hover svg {
+a:hover svg {
     stroke-dashoffset: 0;
     transition: stroke-dashoffset .6s ease-out, fill .6s; 
     fill: transparent;
