@@ -10,9 +10,6 @@ window.addEventListener("scroll", () => {
   document.querySelector(".front").style.opacity = opacity;
 });
 
-const h1 = document.getElementById("h1title");
-
 setTimeout(function(){
-  h1.innerHTML = "Même droits, Même résultats";
-  h1.style.opacity = "1"; 
+  document.getElementById("myImg").src = "2.png";
 }, 6100);
